@@ -1,6 +1,6 @@
 
 
-A Jupyter notebook-based Finite-Difference Time-Domain (FDTD) simulation of a gold (Au)  and silicon (Si) nanocube using [MEEP](https://meep.readthedocs.io/). This project sets up a 3D simulation domain, defines a Gaussian electromagnetic source, places a cubic Au object at the center, applies perfectly-matched-layer (PML) boundaries, and records flux data to analyze scattering, absorption, and transmission spectra.
+A Jupyter notebook-based Finite-Difference Time-Domain (FDTD) simulation of a gold (Au)  and silicon (Si) nanocube using [MEEP](https://meep.readthedocs.io/) and [tidy3D](https://tidy3d.simulation.cloud/learning-center). This project sets up a 3D simulation domain, defines a Gaussian electromagnetic source, places a cubic Au object at the center, applies perfectly-matched-layer (PML) boundaries, and records flux data to analyze scattering, absorption, and transmission spectra.
 
 ---
 
