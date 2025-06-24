@@ -37,6 +37,7 @@ You can install most dependencies via `conda` or `pip`:
 ```bash
 # with conda (recommended for MEEP)
 conda install -c conda-forge meep numpy matplotlib
+conda activate  pmp
 
 # or with pip
 pip install numpy matplotlib
