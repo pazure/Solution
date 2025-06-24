@@ -21,12 +21,9 @@ A Jupyter notebook-based Finite-Difference Time-Domain (FDTD) simulation of a go
   – Run with/without the Au cube and compare spectra  
   – Fourier transform time-domain fields to obtain frequency-domain results  
 
-- # Publication-quality Plots 
-  Uses `matplotlib` along with a custom `plot_style` module to produce clean, annotated figures.
 
----
 
-## 📦 Prerequisites
+# 📦 Prerequisites
 
 - Python 3.8+  
 - [MEEP](https://meep.readthedocs.io/) (with Python bindings)  
