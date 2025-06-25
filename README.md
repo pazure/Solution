@@ -7,13 +7,14 @@ A Jupyter notebook-based Finite-Difference Time-Domain (FDTD) simulation of a go
 ## 🚀 Features
 
 - # 3D FDTD Simulation 
-  Leverages MEEP to model a metallic cube (Au) in a uniform background.
+  Leverages MEEP to model a metallic cube (Au) and a dielectric silicon (Si) cube  in a uniform background.
 
 - # Custom Material Properties 
   Uses the built-in `Au` material model from `meep.materials`.
 
 -  # Source & Monitors
   Adds a pulsed Gaussian source and flux monitors to capture spectral response.
+  The pulse acts as a broadband source. The scattered flux with the wavelength frequency window of 0.65 um t0 0.75um is studied.
 
 - # Data Export & Analysis  
   – Save “empty domain” flux baseline  
